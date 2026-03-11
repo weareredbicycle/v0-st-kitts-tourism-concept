@@ -11,9 +11,9 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <AiPlanner />
         <Destinations />
         <Experiences />
-        <AiPlanner />
       </main>
       <Footer />
     </>
